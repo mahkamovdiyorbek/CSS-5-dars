@@ -1,0 +1,43 @@
+body {
+    background-color: darkgrey;
+   /* width: 1000px;
+    height: 500px;*/
+}
+
+.h1{
+    margin-left: 0px;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+
+.p2{
+    width: 150px;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 580px;
+    background: grey;
+    border: grey solid;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.yarim{
+    background-color: white;
+    width: 1500px;
+    height: 500px;
+    margin-left: -50px;
+    margin-top: 200px;
+}
+
+.img1{
+    margin-top: -500px;
+    margin-left: 300px;
+}
+
+.sticky{
+    position: sticky;
+    top: 0;
+    left: 0;
